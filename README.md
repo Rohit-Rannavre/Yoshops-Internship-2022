@@ -1,9 +1,10 @@
-<img align="right" src="https://play-lh.googleusercontent.com/SnmQsl0Y2dyk4WzdcfHbSuHTBGjhonE5ndR3e-arl6UGDxTgYWZqMFbgeoVp5elwCA=w600-h300-pc0xffffff-pd" width="200">
+<img align="right" src="https://play-lh.googleusercontent.com/SnmQsl0Y2dyk4WzdcfHbSuHTBGjhonE5ndR3e-arl6UGDxTgYWZqMFbgeoVp5elwCA=w600-h300-pc0xffffff-pd" width="300">
 
 # :star: Yoshops Internship [2022]
 
-This repository is mainly for the certificates I received as a Data Science intern at [Yoshops](https://yoshops.com/)
+This repository is exclusively for the certificates I received as an intern at [Yoshops](https://yoshops.com/t/internship).
 
+- **Internship Function**: Data Science
 - **Internship Duration**: 2 Months [November, 2022 to December, 2022]
 - **Internship Mode**: Virtual
 
