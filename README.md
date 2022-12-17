@@ -1,4 +1,4 @@
-<img align="right" src="https://play-lh.googleusercontent.com/SnmQsl0Y2dyk4WzdcfHbSuHTBGjhonE5ndR3e-arl6UGDxTgYWZqMFbgeoVp5elwCA=w600-h300-pc0xffffff-pd" width="300">
+<img align="right" src="https://play-lh.googleusercontent.com/SnmQsl0Y2dyk4WzdcfHbSuHTBGjhonE5ndR3e-arl6UGDxTgYWZqMFbgeoVp5elwCA=w600-h300-pc0xffffff-pd" width="250">
 
 # :star: Yoshops Internship [2022]
 
