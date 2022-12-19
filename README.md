@@ -1,4 +1,4 @@
-<img align="right" src="https://play-lh.googleusercontent.com/SnmQsl0Y2dyk4WzdcfHbSuHTBGjhonE5ndR3e-arl6UGDxTgYWZqMFbgeoVp5elwCA=w600-h300-pc0xffffff-pd" width="250">
+<img align="right" src="https://play-lh.googleusercontent.com/SnmQsl0Y2dyk4WzdcfHbSuHTBGjhonE5ndR3e-arl6UGDxTgYWZqMFbgeoVp5elwCA=w600-h300-pc0xffffff-pd" width="200">
 
 # :star: Yoshops Internship [2022]
 ![](https://img.shields.io/badge/Tools-python%20%7C%20pandas%20%7C%20numpy%20%7C%20seaborn%20%7C%20matplotlib%20%7C%20Beautiful%20Soup-0099cc?style=for-the-badge)
