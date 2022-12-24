@@ -6,7 +6,7 @@
 This repository is exclusively for the certificates I received as an intern at [Yoshops](https://yoshops.com/t/internship).
 
 - **Internship Function**: Data Science
-- **Internship Duration**: 2 Months [November, 2022 to December, 2022]
+- **Internship Duration**: 2 Months [1 November, 2022 to 21 December, 2022]
 - **Internship Mode**: Virtual
 
 <br>
