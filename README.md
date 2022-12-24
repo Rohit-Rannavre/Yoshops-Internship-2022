@@ -9,7 +9,7 @@ This repository contains the tasks I did as an intern with [Yoshops](https://yos
 - **Internship Duration**: 2 Months [November, 2022 to December, 2022]
 - **Internship Mode**: Virtual
 
-### :zap:Tasks
+### :zap: Tasks
 
 ***
 
