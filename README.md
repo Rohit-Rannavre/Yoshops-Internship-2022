@@ -1,6 +1,5 @@
 # :star: Yoshops Internship [2022]
 ![](https://img.shields.io/badge/Tools-python%20%7C%20pandas%20%7C%20numpy%20%7C%20seaborn%20%7C%20matplotlib%20%7C%20Beautiful%20Soup-orange?style=for-the-badge)
-<img align="right" src="https://play-lh.googleusercontent.com/SnmQsl0Y2dyk4WzdcfHbSuHTBGjhonE5ndR3e-arl6UGDxTgYWZqMFbgeoVp5elwCA=w600-h300-pc0xffffff-pd" width="250">
 
 This repository contains the tasks I did as an intern with [Yoshops](https://yoshops.com/t/internship).
 
@@ -27,9 +26,3 @@ This repository contains the tasks I did as an intern with [Yoshops](https://yos
 > [Task 7](https://mega.nz/folder/NxVizIDA#JUGkEpxbyF6PCc4DxcMLUA)
 
 > [Task 8](https://mega.nz/folder/18VGAbZB#bS3TimzDKcyTbqwyD2eGJA)
-
-<br>
-
-### ***Let's connect:***
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rannavre) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.rannavre@gmail.com)  
